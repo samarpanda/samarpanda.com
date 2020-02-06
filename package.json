@@ -1,0 +1,34 @@
+{
+  "name": "samarpanda.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "cross-env GATSBY_GRAPHQL_IDE=playground gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^2.19.12",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.0",
+    "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarpanda/samarpanda.com.git"
+  },
+  "homepage": "https://github.com/samarpanda/samarpanda.com#readme",
+  "bugs": {
+    "url": "https://github.com/samarpanda/samarpanda.com/issues"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
