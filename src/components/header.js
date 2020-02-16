@@ -31,7 +31,7 @@ const Header = () => (
       padding: 0.5rem calc((100vw - 550px - 0.5rem) / 2);
     `}
   >
-    <NavLink to="/" fontweight="bold">
+    <NavLink to="/" fontWeight="bold">
       Samar Panda
     </NavLink>
     <nav
