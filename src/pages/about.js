@@ -30,6 +30,14 @@ export default () => (
       <br />
       <a
         rel="noopener noreferrer"
+        href="http://www.youtube.com/samarpanda"
+        target="_blank"
+      >
+        My Youtube Channel
+      </a>
+      <br />
+      <a
+        rel="noopener noreferrer"
         href="http://www.slideshare.net/samarpanda"
         target="_blank"
       >
@@ -42,12 +50,20 @@ export default () => (
       >
         Stackoverflow
       </a>
+      <br />
       <a
         rel="noopener noreferrer"
         href="http://www.facebook.com/samar.panda"
         target="_blank"
       >
         Facebook
+      </a>
+      <a
+        rel="noopener noreferrer"
+        href="http://pinterest.com/samarpanda/"
+        target="_blank"
+      >
+        Pinterest
       </a>
       <br />
       <a
@@ -65,13 +81,6 @@ export default () => (
         About.me
       </a>
       <br />
-      <a
-        rel="noopener noreferrer"
-        href="http://pinterest.com/samarpanda/"
-        target="_blank"
-      >
-        Pinterest
-      </a>
       <a
         rel="noopener noreferrer"
         href="http://foursquare.com/user/29130714"
